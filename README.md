@@ -1,4 +1,66 @@
 
+# Jupyter Notebooks
+***
+
+ VSC: 
+ ctrl &shift & P: 
+
+ Dropdown: 'Markdown Open Preview' on the side
+ Handy to see the formatting
+
+ 'commit'  git commit all  i.e.  can commit from VSC no need to go into cmder
+
+
+This repository contains jupyter notebooks and other relevant files used to demonstrate my work on
+- ``Matplotlib``
+- ``Pandas``
+
+
+![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Matplotlib_logo.svg/300px-Matplotlib_logo.svg.png)
+
+
+ ``for my module: 
+ Fundamentals in Data Analytics
+
+
+# Install
+Steps to install
+
+1. Get stuff
+2. Get more stuff
+3. Run commands
+
+# Run
+
+## Heres how to run the project notebooks:
+
+1. open terminal 
+2. run jupyter with ``Pyplot.ipynb``
+3. open browser (chrome or windows)
+
+## Explore 
+
+Have a look at the two notebooks in this repository in Jupyter
+Some interesting aspects:
+The Notebook `plots.ipynb` has three different plot types as examples. You can edit the psrameters of the plots to see different effects
+
+e.g. plot of y = x2 can change the range of values.
+ heres how to do that (give specific instructions)
+
+ I heavily relied on the realpython  in this repository .  You can find it here 
+ https://realpython.com/python-matplotlib-guide/
+
+ Change the following code and see how the plot changes:
+ [Three backtics followed by python can add python code- make sure to close the back ticks]
+```python
+ def f(x)
+ return x * x
+ ```
+
+
+
+https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
 
@@ -80,4 +142,8 @@ Conclusion:
 How to Use Your Project. ...
 Include Credits. ...
 List the License. ...
-Badges.
+Badges.`
+
+## Contact: 
+
+[doodymack@gmail.com](mailto:doodymack@gmail.com)
