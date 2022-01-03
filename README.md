@@ -128,11 +128,11 @@ This may identify the apparent points 'inflation' seen in 2021 CAO courses for s
 The above techniques establish if there is an overall trend across the years. <br> 
 However the data analysis does not measure the change (increase/decrease) in specific course points.<br> This is difficult as courses offered in one year are not necessarily offered in subsequent years.<br> 
 
-Future work
+#### Future work
 An analysis of overall course inflation by measuring the course inflation per course and summing these per year could be an interesting analysis.<br> Of interest is does this collate with the 'course code blind' analysis using histogram/kernel density estimates.<br> 
 
 
-Conclusion:
+### Conclusion:
 
 The project allowed me to improve my working knowledge of the python PANDAS and Matplotlib  functionality to extract multiannual data from online data of different format. <br>  The project allows me put forward ways to scrape and engineer online data into a dataframe. <br>  Therafter the functionality of matplotlib can be used to analyse the multiannual data for trends.<br> 
 I learned that there are many ways to capture data and transform it to trendable data using the functionality of PANDAS. <br> 
